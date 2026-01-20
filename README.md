@@ -1,2 +1,2 @@
 # Certificates
-pvt repo for my certifications 
+private repo for my certifications 
